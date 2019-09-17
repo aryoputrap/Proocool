@@ -35,7 +35,7 @@ Aplikasi ini masih tahap test , dengan kata lain masih terdapat fitur yang belum
 * Pastikan sudah terinstall Node.js di sistem anda https://nodejs.org/
 * Lalu install React Native https://facebook.github.io/react-native/
 
-## Kontan 
+## Kontak
 * WA/TELEGRAM: +62 8158800024
 * email: aryoputrap@gmail.com, radifanmp@gmail.com
 
